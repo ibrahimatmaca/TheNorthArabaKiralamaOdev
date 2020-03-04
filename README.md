@@ -1,3 +1,3 @@
 # TheNorthArabaKiralamaOdev
  
-Projem de MSSQL veri tabanı ile uyumlu pdf ile çıktı alınabilen bir veri tabanı CRUD işlemlerinin yapılabildiği bir proje olup C# ile kodlanmıştır
+A pdf-printable database compatible with the MSSQL data source is a project between CRUD processes and is coded in C #.
